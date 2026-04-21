@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "metadata": {
+    "protocol_versions": ["6"],
+    "provider_name": "virtuacloud",
+    "provider_source": "Berndinox/virtuacloud"
+  }
+}

@@ -1,0 +1,146 @@
+Mozilla Public License Version 2.0
+==================================
+
+1. Definitions
+---------------
+
+1.1. "Contributor" means each individual or legal entity that creates, has
+created, or contributes to the creation of Modifications.
+
+1.2. "Contributor Version" means the combination of the Contributions of others
+(if any) used by a Contributor to make its Contributions and the specific
+version of the Original Work used by that Contributor.
+
+1.3. "Covered Software" means the Original Work or Modifications or the
+combination of the Original Work and Modifications, in each case including
+portions thereof.
+
+1.4. "Display" means to make the Covered Software available on a computer
+screen or similar display device.
+
+1.5. "Distribution" means the act of either Making Available or Exporting the
+Covered Software, or a combination of both.
+
+1.6. "Executable" means Covered Software in any form other than Source Code.
+
+1.7. "Export" means to send or take the Covered Software out of the jurisdiction
+in which it is originally made available for Distribution.
+
+1.8. "Incompatible With Secondary Licenses" means either that the initial
+Contributor has attached the notice described in Exhibit B to the Covered
+Software, or that the Covered Software was made available under the terms of
+version 1.1 of this License or earlier and the initial Contributor has attached
+the notice described in Exhibit C to the Covered Software.
+
+1.9. "Larger Work" means a work that combines Covered Software with other
+material, in one or more files, that is not Covered Software.
+
+1.10. "Making Available" means to make the Covered Software available on a
+computer network or otherwise for remote access by others, or to distribute the
+Covered Software on a computer network or otherwise for remote download by
+others.
+
+1.11. "Modifications" means any of the following:
+
+    (a) any file in Source Code form that results from an addition to,
+    deletion from, or modification of the contents of the Covered Software;
+
+    (b) any new file in Source Code form that contains any Covered Software.
+
+1.12. "Patent Claims" of a Contributor means any patent claim(s), including
+without limitation, method, process, and apparatus claims, in any patent
+Licensable by such Contributor that would be infringed, but for the grant of
+the License, by the making, using, selling, offering for sale, having made,
+importing, or transferring of the Contributor Version or any portion thereof
+or any combination of the Contributor Version with other code.
+
+1.13. "Source Code" means the Covered Software in the form in which it is
+usually distributed, including all accompanying documentation.
+
+1.14. "You" or "Your" means an individual or a legal entity exercising rights
+under this License. For legal entities, "You" or "Your" includes any entity
+that controls, is controlled by, or is under common control with, You. For
+purposes of this definition, "control" means (a) the power, directly or
+indirectly, to direct or manage such entity, or (b) ownership of more than
+fifty percent (50%) of the outstanding shares or beneficial ownership of such
+entity.
+
+2. License Grants and Conditions
+---------------------------------
+
+2.1. Grants
+
+Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive
+license:
+
+(a) under intellectual property rights (other than patent or trademark) to
+use, reproduce, modify, display, perform, sublicense, and Distribute the
+Covered Software, with or without Modifications, in Source Code or Executable
+form; and
+
+(b) under Patent Claims of such Contributor to make, use, sell, offer for
+sale, have made, import, and transfer the Contributor Version or any portion
+thereof or any combination of the Contributor Version with other code.
+
+2.2. Conditions
+
+The grants in Section 2.1 are conditioned upon Your compliance with the
+following:
+
+(a) You must ensure that anyone who receives the Covered Software from You
+also receives this License and the Source Code of the Covered Software.
+
+(b) You may not impose any terms on the Covered Software that alter or
+restrict this License or the recipients' rights under this License.
+
+(c) You must distribute the Covered Software and any Larger Work in
+Executable form under the terms of this License, or under a secondary
+license if and only if the Covered Software is not Incompatible With
+Secondary Licenses.
+
+3. Responsibilities
+--------------------
+
+3.1. Contributor Responsibilities
+
+Each Contributor is responsible for ensuring that its Contributions are
+accompanied by appropriate license terms.
+
+3.2. Your Responsibilities
+
+You are responsible for ensuring that the Covered Software is distributed
+in compliance with this License and any applicable laws or regulations.
+
+4. Disclaimer of Warranty
+--------------------------
+
+THE COVERED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS,
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT
+LIMITATION, WARRANTIES THAT THE COVERED SOFTWARE IS FREE OF DEFECTS,
+MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK
+AS TO THE QUALITY AND PERFORMANCE OF THE COVERED SOFTWARE IS WITH YOU.
+
+5. Limitation of Liability
+----------------------------
+
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING
+NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL ANY CONTRIBUTOR, OR ANY OTHER
+PARTY WHO MAY DISTRIBUTE THE COVERED SOFTWARE, OR ANY PORTION THEREOF, BE
+LIABLE TO ANY PERSON FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR
+CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES
+FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY
+AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL HAVE
+BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. Termination
+--------------
+
+This License and the rights granted hereunder will terminate automatically
+if You fail to comply with any of the terms of this License and do not cure
+such failure within a reasonable period of time.
+
+7. Miscellaneous
+-----------------
+
+This License represents the complete agreement concerning the subject matter
+hereof.

@@ -1,0 +1,9 @@
+# Local development setup for OpenTofu
+# Copy this file to ~/.tofurc and adjust the path
+
+provider_installation {
+  dev_overrides {
+    "registry.opentofu.org/Berndinox/virtuacloud" = "C:\\Dev\\tf-provider-virtua-cloud\\bin"
+  }
+  direct {}
+}
