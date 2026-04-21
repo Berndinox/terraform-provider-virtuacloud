@@ -124,4 +124,4 @@ This project was developed making use of AI.
 
 ## License
 
-MPL-2.0
+MIT
