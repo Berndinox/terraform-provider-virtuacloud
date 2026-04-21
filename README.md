@@ -3,7 +3,7 @@
 OpenTofu/Terraform provider for [Virtua.Cloud](https://www.virtua.cloud) platform. Manage cloud servers and resources using Infrastructure as Code.
 
 **Note:**
-* The project is in its eraly stages (**Beta**)
+* The project is in its early stages (**Beta**)
 * This is an unofficial Terraform provider and is not affiliated with, endorsed by, or supported by Virtua.Cloud / HashiCorp
 * Provided “as is” without warranty of any kind; use at your own risk.
 * Contributions are welcome and appreciated.
