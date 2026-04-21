@@ -4,7 +4,7 @@ OpenTofu/Terraform provider for [Virtua.Cloud](https://www.virtua.cloud) platfor
 
 **Note:**
 * The project is in its eraly stages (**Beta**)
-* This is an unofficial Terraform provider and is not affiliated with, endorsed by, or supported the Virtua.Cloud itself
+* This is an unofficial Terraform provider and is not affiliated with, endorsed by, or supported by Virtua.Cloud / HashiCorp
 * Provided “as is” without warranty of any kind; use at your own risk.
 * Contributions are welcome and appreciated.
 
